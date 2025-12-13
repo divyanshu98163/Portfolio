@@ -50,7 +50,7 @@ export default function HeroSection() {
                 {/* Buttons */}
                 <div className="flex justify-center gap-4 mt-4">
                     <Link
-                        href="https://drive.google.com/file/d/1b7yPiCOn2AzPdMunbb-NCFcPxo76iLQ8/view"
+                        href="https://drive.google.com/file/d/1lt6biIqTpvVjikcm2PQyTI_P6-Mlpbpn/view"
                         target="_blank"
                     >
                         <button className="px-8 py-3 bg-primary text-white rounded-lg hover:opacity-80 transition font-medium">

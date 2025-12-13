@@ -34,7 +34,7 @@ export default function Header() {
             <span className="hidden md:inline">GitHub</span>
           </a>
 
-          <Link href="/resume.pdf" target="_blank" className="px-3 py-1 rounded border hover:bg-muted transition">
+          <Link href="https://drive.google.com/file/d/1lt6biIqTpvVjikcm2PQyTI_P6-Mlpbpn/view" target="_blank" className="px-3 py-1 rounded border hover:bg-muted transition">
             Resume
           </Link>
         </div>
